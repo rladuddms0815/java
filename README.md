@@ -1,2 +1,2 @@
 # java
-java 공부
+java
